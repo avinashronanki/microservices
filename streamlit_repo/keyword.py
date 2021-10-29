@@ -7,7 +7,6 @@ from nltk.corpus import stopwords
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn import cluster
-# nltk.download('stopwords')
 stemmer = PorterStemmer()
 sw = stopwords.words('english')
 

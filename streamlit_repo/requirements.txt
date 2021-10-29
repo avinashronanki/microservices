@@ -1,0 +1,8 @@
+streamlit
+yfinance
+watchdog
+sklearn
+plotly 
+psycopg2
+requests 
+tweepy
